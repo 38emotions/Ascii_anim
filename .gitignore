@@ -1,0 +1,9 @@
+# 개인 입력/출력물 (퍼블릭 업로드 제외)
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+out*.txt
+__pycache__/
