@@ -6,6 +6,17 @@
 pip install Pillow
 ```
 
+## 폴더 구조
+
+```
+ascii_anim/
+├── ascii_anim.py
+├── README.md
+└── anim.gif        ← 변환할 이미지/GIF를 여기에 넣기
+```
+
+다른 위치의 파일은 경로를 그대로 넘기면 됩니다: `python3 ascii_anim.py ~/Downloads/anim.gif`
+
 ## 사용법
 
 ```bash
